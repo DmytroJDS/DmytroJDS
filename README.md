@@ -9,10 +9,11 @@
 - 🤖 I am **Dmitry Seleznyov** aka `DmitryJDS`
 - 💻 Fullstack **С#/.NET** dev
 
-🧰 **Development Tools and stuff:** 
+### **Development Tools and stuff:** 
 Visual Studio, VS Code, Teamcity, YouTrack, Kibana, Elasticsearch, MongoDB, MySql, SQLite, Git, SourceTree, Studio3T, DbForge, Postman, Swagger, RabbitMq, Confluemce, Github, GitLab
 
-⌨️ **Other Programming Languages:** C, C++, Javascript, Python
+### **Other Programming Languages:**
+C, C++, Javascript, Python
 
 ### Contact
 [![TG: @DmitryJDS](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=blue)](//t.me/DmitryJDS)
