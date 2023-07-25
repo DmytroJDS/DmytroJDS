@@ -6,7 +6,7 @@
 </p>
 
 ### Brief
-- 🤖 I am **Dmytro Seleznyov**
+- 🤖 I am **Dmytro**
 - 💻 **С#/.NET** Backend Developer
 
 ### **Development Tools and stuff:** 
