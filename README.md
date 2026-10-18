@@ -8,7 +8,7 @@ Javascript, Python, C++
 ### **Development Tools and stuff i use:** 
 Jetbrains Rider, Visual Studio, VS Code, Teamcity, YouTrack, Kibana, Elasticsearch, MongoDB, MySql, SQLite, Git, SourceTree, Studio3T, DbForge, Postman, Swagger, RabbitMq, Confluemce, Github, GitLab, Kafka, 
 
-### **Agentic stuff:### **
+### **Agentic stuff:**
 OpenCode, Claude, Codex, 
 
 ### **Tags:**
